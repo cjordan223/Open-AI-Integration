@@ -1,0 +1,3 @@
+openai
+Flask
+flask-cors
